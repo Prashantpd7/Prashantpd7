@@ -1,1 +1,1 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jun 10, 2026, 12_32_51 PM" src="https://github.com/user-attachments/assets/448a73c0-8c86-4670-a4f8-0655814f0b04" />
+<img width="800" height="450" alt="video_is_perfect_make_sure_tha-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f3aeaa16-fb49-41e3-b39e-2095cbf277ac" />
