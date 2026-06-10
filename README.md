@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Preecode — an AI-powered coding practice platform inside VS Code<br><br>👯 I’m looking to collaborate on AI developer tools, VS Code extensions, and open-source projects<br><br>🤝 I’m looking for help with scaling Preecode and improving AI workflows<br><br>🌱 I’m currently learning AI/ML engineering and advanced developer tooling<br><br>💬 Ask me about VS Code extensions, Node.js, AI tools, and UI/UX design<br><br>⚡ Fun fact: Built an AI VS Code platform as a student, Google Cloud GenAI Exchange Hackathon Finalist, and I can spend 10 hours debugging for fun
 
