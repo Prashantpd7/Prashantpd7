@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/74dc35de-2d70-4b76-9d1e-f85b2bb5b747" />
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
 </div>
